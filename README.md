@@ -21,6 +21,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh4dev&show_icons=true&locale=en&layout=compact" alt="santosh4dev" /></p>
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=santosh4dev&show_icons=true&theme=tokyonight" 
+/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh4dev&show_icons=true&locale=en" alt="santosh4dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh4dev&" alt="santosh4dev" /></p>
